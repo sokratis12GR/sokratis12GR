@@ -15,4 +15,4 @@ Sokratis Fotkatzikis also known as sokratis12GR is a software developer, who is 
 
 ### Social Links
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/sokratis12GR.svg?color=blue&label=Follow%20%40sokratis12GR&logo=twitter&logoColor=orange&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=sokratis12GR)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sokratis12GR.svg?color=red&label=Follow%20%40sokratis12GR&logo=twitter&logoColor=orange&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=sokratis12GR)
