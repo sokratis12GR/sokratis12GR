@@ -10,7 +10,7 @@ Alongside that hobby of developing mods he is a 19 year old student at the **Sou
 
 - [**ArmorPlus**](https://smarturl.it/armorplus) 
   - [![](http://cf.way2muchnoise.eu/full_armorplus_downloads.svg)](https://smarturl.it/armorplus)
-  - [![](http://cf.way2muchnoise.eu/versions/armorplus.svg)](https://smarturl.it/armorplus
+  - [![](http://cf.way2muchnoise.eu/versions/armorplus.svg)](https://smarturl.it/armorplus)
 
 ### Discord
 
