@@ -16,16 +16,16 @@
 
 ### Discord
 
-- **Looker (Bot)**: https://looker.sokratis.cf
+- **Looker (Bot)**: https://looker.sokratis.space
 
 
 ### Android
 
-- **Blacklist Checker (Utility App)**: https://checker.sokratis.cf
+- **Blacklist Checker (Utility App)**: https://checker.sokratis.space
 
 ## Homepage
 
-- [**SoFoDev (Official Website)**](https://sokratis.cf)
+- [**SoFoDev (Official Website)**](https://sokratis.space)
 
 ## Social Links
 
