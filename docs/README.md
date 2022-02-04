@@ -3,7 +3,7 @@
 
 <p> <b>Sokratis Fotkatzikis</b> also known as <b>sokratis12GR</b> and <b>SoFoDev</b> is a 20 year old Greek and Bulgarian software developer, who is mainly developing mods for the game <a href="Minecraft.net"><b>Minecraft</b></a>. </p>
 <p> Alongside that hobby of developing mods he is a student at the <b>South-West University "Neofit Rilski" (<i>Югозападен университет „Неофит Рилски“</i>)</b>,
-      as a bachelor studying <b>IST (<i>Information Systems and Technologies</i>)</b> for 2+ years now.</p>
+      as a bachelor studying <b>IST (<i>Information Systems and Technologies</i>)</b> for 3+ years now.</p>
 
 ## Projects
 
