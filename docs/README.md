@@ -9,10 +9,10 @@
 
 ### Minecraft
 
-- [**ArmorPlus**](https://smarturl.it/armorplus) 
+#### [**ArmorPlus**](https://smarturl.it/armorplus) 
 
-[![](http://cf.way2muchnoise.eu/full_armorplus_downloads.svg)](https://smarturl.it/armorplus)
-[![](http://cf.way2muchnoise.eu/versions/armorplus.svg)](https://smarturl.it/armorplus)
+- [![](http://cf.way2muchnoise.eu/full_armorplus_downloads.svg)](https://smarturl.it/armorplus)
+- [![](http://cf.way2muchnoise.eu/versions/armorplus.svg)](https://smarturl.it/armorplus)
 
 ### Discord
 
@@ -29,6 +29,7 @@
 
 ## Social Links
 
+<p><a class="linkedin" href="https://www.linkedin.com/in/sokratis12gr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20Profile-white?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5"></a></p>
 <p><a class="github" href="https://github.com/sokratis12GR"><img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub%20Profile-white?logo=github&style=for-the-badge&color=161B22"></a></p>
 <p><a class="steam" href="https://steamcommunity.com/id/sokratis12GR"><img alt="Steam Profile" src="https://img.shields.io/badge/sokratis12GR%20%7C%20SoFoDev-white?style=for-the-badge&logo=steam&color=171A21"></a></p>
 <p><a class="twitter" href="https://twitter.com/sokratis12GR"><img alt="Twitter Follow" src="https://img.shields.io/badge/@sokratis12GR-white?logo=twitter&logoColor=white&style=for-the-badge&color=1DA1F2"></a></p>
