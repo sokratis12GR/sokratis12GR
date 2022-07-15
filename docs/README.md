@@ -35,6 +35,7 @@
 
 ## Social Links
 
+<p><a class="google-dev" href="https://play.google.com/store/apps/dev?id=4669583512557743868"><img alt="Google Developer Page" src="https://img.shields.io/badge/Google%20Developer%20Page-black?style=for-the-badge&logo=google"></a></p>
 <p><a class="linkedin" href="https://www.linkedin.com/in/sokratis12gr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20Profile-white?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5"></a></p>
 <p><a class="github" href="https://github.com/sokratis12GR"><img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub%20Profile-white?logo=github&style=for-the-badge&color=161B22"></a></p>
 <p><a class="steam" href="https://steamcommunity.com/id/sokratis12GR"><img alt="Steam Profile" src="https://img.shields.io/badge/sokratis12GR%20%7C%20SoFoDev-white?style=for-the-badge&logo=steam&color=171A21"></a></p>
