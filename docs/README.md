@@ -14,6 +14,11 @@
 - [![](http://cf.way2muchnoise.eu/full_armorplus_downloads.svg)](https://smarturl.it/armorplus)
 - [![](http://cf.way2muchnoise.eu/versions/armorplus.svg)](https://smarturl.it/armorplus)
 
+#### [**Sword Displays**](https://smarturl.it/sworddisplays) 
+
+- [![](http://cf.way2muchnoise.eu/full_392762_downloads.svg)](https://smarturl.it/sworddisplays)
+- [![](http://cf.way2muchnoise.eu/versions/392762.svg)](https://smarturl.it/sworddisplays)
+
 ### Discord
 
 - **Looker (Bot)**: https://looker.sokratis.space
