@@ -1,10 +1,13 @@
 
 # About
 
-<p> <b>Sokratis Fotkatzikis</b> also known as <b>sokratis12GR</b> and <b>SoFoDev</b> is a 21 year old Greek and Bulgarian software developer, who is mainly developing mods for the game <a href="Minecraft.net"><b>Minecraft</b></a>. </p>
-<p> Alongside that hobby of developing mods he is a student at the <b>South-West University "Neofit Rilski" (<i>Югозападен университет „Неофит Рилски“</i>)</b>,
-      as a bachelor studying <b>IST (<i>Information Systems and Technologies</i>)</b> for 3+ years now.</p>
-
+  <p> Hello! I'm <b>Sokratis Fotkatzikis</b> also known as <b>sokratis12GR</b> and <b>SoFoDev</b>. I'm Greek and Bulgarian, at the age of 22 and also a software developer.</p>
+     <p> Currently working for <a href="https://bright-research.com/en/">Bright Marketing Research</a> as a Survey Developer with Decipher. (Since September 26th 2022) </p>
+     <p> My hobby is developing mods for the game <a href="https://Minecraft.net"><b>Minecraft</b></a>.</p>
+     <p> Alongside the hobby of developing mods I am also a student at the <b>South-West University "Neofit Rilski" (<i>Югозападен университет „Неофит Рилски“</i>)</b>,
+      as a Master studying <b>Informatics</b>.</p>
+     <p> I earned my Bachelor of Science degree in IST (<i>Information Systems and Technologies</i>) in 2023. </p>
+     
 ## Projects
 
 ### Minecraft
