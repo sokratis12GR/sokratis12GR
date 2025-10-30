@@ -29,9 +29,9 @@ Both degrees from South-West University "Neofit Rilski" in Bulgaria, where I hon
 
 ### Path of Exile
 
-#### Heist Curio Tracker
+#### [**Heist Curio Tracker**](https://github.com/sokratis12GR/Curio-Tracker)
 
-- [Heist Curio Tracker](https://github.com/sokratis12GR/Curio-Tracker)
+-  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sokratis12gr/curio-tracker/total)
 
 ### Android (Discontinued)
 
