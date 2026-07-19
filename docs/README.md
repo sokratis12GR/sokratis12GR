@@ -1,52 +1,132 @@
+# Hey, I'm Sokratis Fotkatzikis
 
-# About
+**Game Designer • Minecraft Mod Developer • Software Developer**
 
-I'm Sokratis Fotkatzikis, a game designer and mod developer passionate about creating immersive and creative experiences for Minecraft. Known for ArmorPlus, I specialize in creating armors and gameplay systems that enhance player engagement.
+Welcome to my GitHub!
 
-## Work Experience
-Currently working at Bright Marketing Research as a Survey Developer with Decipher since September 26th, 2022. Specializing in designing and implementing surveys, data collection strategies, and analysis tools to provide actionable insights for market research clients.
+I'm **Sokratis (sokratis12GR)**, a developer focused on creating gameplay experiences, tools, and systems that bring ideas to life.
 
-## Academic Achievements
-I earned my Bachelor of Science degree in IST (Information Systems and Technologies) in 2023
+I am best known for **ArmorPlus**, a Minecraft mod that expands the game with custom armor sets, abilities, progression systems, and unique mechanics.
 
-I also earned my Master of Science degree in Informatics in 2024
+ Portfolio: https://sokratis.space/
 
-Both degrees from South-West University "Neofit Rilski" in Bulgaria, where I honed my skills in software development, systems design and code analysis.
-     
-## Projects
+---
 
-### Minecraft
+# Projects
 
-#### [**ArmorPlus**](https://www.curseforge.com/minecraft/mc-mods/armorplus) 
+## Minecraft Mods
 
-- [![](http://cf.way2muchnoise.eu/full_armorplus_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/armorplus)
-- [![](http://cf.way2muchnoise.eu/versions/armorplus.svg)](https://www.curseforge.com/minecraft/mc-mods/armorplus)
+### ArmorPlus
+[![CurseForge](https://img.shields.io/badge/CurseForge-ArmorPlus-F16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/armorplus)
 
-#### [**Sword Displays**](https://www.curseforge.com/minecraft/mc-mods/sword-displays) 
+A Minecraft mod focused on custom armor sets, tools, abilities, and progression.
 
-- [![](http://cf.way2muchnoise.eu/full_392762_downloads.svg)](https://www.curseforge.com/minecraft/mc-mods/sword-displays)
-- [![](http://cf.way2muchnoise.eu/versions/392762.svg)](https://www.curseforge.com/minecraft/mc-mods/sword-displays)
+Features:
+- 20+ unique armor sets
+- Custom abilities and effects
+- Custom materials and progression
+- Forge & NeoForge support
 
-### Path of Exile
+---
 
-#### [**Heist Curio Tracker**](https://github.com/sokratis12GR/Curio-Tracker)
+### Sword Displays
 
--  ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/sokratis12gr/curio-tracker/total)
+[![CurseForge](https://img.shields.io/badge/CurseForge-Sword_Displays-F16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/sword-displays)
 
-### Android (Discontinued)
+A Minecraft mod that adds decorative sword displays and presentation systems.
 
-- **Blacklist Checker (Utility App)**: https://checker.sokratis.space
-- **Endless TD (Tower Defence Game)**: https://endless.sokratis.space
+---
 
-## Homepage
+# Tools & Applications
 
-- [**SoFoDev (Official Website)**](https://sokratis.space)
+## Curio Tracker
 
-## Social Links
+[![GitHub Releases](https://img.shields.io/github/downloads/sokratis12gr/curio-tracker/total?style=for-the-badge&logo=github)](https://github.com/sokratis12GR/Curio-Tracker)
 
-<!-- <p><s><a class="google-dev" href="https://play.google.com/store/apps/dev?id=4669583512557743868"><img alt="Google Developer Page" src="https://img.shields.io/badge/Google%20Developer%20Page-black?style=for-the-badge&logo=google"></a></s></p> -->
-<p><a class="linkedin" href="https://www.linkedin.com/in/sokratis12gr/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20Profile-white?style=for-the-badge&logo=linkedin&logoColor=white&color=0077b5"></a></p>
-<p><a class="github" href="https://github.com/sokratis12GR"><img alt="GitHub Profile" src="https://img.shields.io/badge/GitHub%20Profile-white?logo=github&style=for-the-badge&color=161B22"></a></p>
-<p><a class="steam" href="https://steamcommunity.com/id/sokratis12GR"><img alt="Steam Profile" src="https://img.shields.io/badge/sokratis12GR%20%7C%20SoFoDev-white?style=for-the-badge&logo=steam&color=171A21"></a></p>
-<p><a class="twitter" href="https://twitter.com/sokratis12GR"><img alt="Twitter Follow" src="https://img.shields.io/badge/@sokratis12GR-white?logo=twitter&logoColor=white&style=for-the-badge&color=1DA1F2"></a></p>
-<p><a class="discord" href="https://discord.gg/JCWbJvA"><img alt="Discord Invite" src="https://img.shields.io/badge/Join%20Our%20ArmorPlus%20Community%20Server-white?style=for-the-badge&logo=discord&logoColor=white&color=5865F2"></a></p>
+A Path of Exile utility tool that automatically recognizes Grand Heist Curio rewards using OCR.
+
+Features:
+- OCR-based recognition
+- Searchable history
+- poe.ninja price integration
+- PoE ladder ownership data
+
+---
+
+# Other Projects
+
+### Blacklist Checker
+Utility application for checking blacklist information.
+
+https://checker.sokratis.space
+
+---
+
+### Endless TD
+A tower defense game project.
+
+https://endless.sokratis.space
+
+---
+
+# About Me
+
+## Experience
+
+Currently working at **Bright Marketing Research** as a **Survey Developer** using **Decipher**.
+
+My work focuses on:
+- Survey development
+- Data collection systems
+- Research tools
+- Client-focused solutions
+
+---
+
+## Education
+
+🎓 **Master of Science in Informatics** (2024)
+
+🎓 **Bachelor of Science in Information Systems and Technologies** (2023)
+
+Both completed at **South-West University "Neofit Rilski", Bulgaria**.
+
+---
+
+# Technologies & Interests
+
+### Development
+- Java
+- Python
+- JavaScript
+- Android Development
+- Minecraft Forge / NeoForge
+
+### Interests
+- Game Design
+- Mod Development
+- Gameplay Systems
+- Automation Tools
+- Creative Programming
+
+---
+
+# Find Me Online
+
+[![Website](https://img.shields.io/badge/Portfolio-sokratis.space-7289da?style=for-the-badge&logo=googlechrome)](https://sokratis.space)
+
+[![GitHub](https://img.shields.io/badge/GitHub-sokratis12GR-161B22?style=for-the-badge&logo=github)](https://github.com/sokratis12GR)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sokratis12gr/)
+
+[![Steam](https://img.shields.io/badge/Steam-sokratis12GR-171A21?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/sokratis12GR)
+
+[![X](https://img.shields.io/badge/X-@sokratis12GR-000000?style=for-the-badge&logo=x)](https://twitter.com/sokratis12GR)
+
+[![Discord](https://img.shields.io/badge/Discord-ArmorPlus%20Community-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/JCWbJvA)
+
+---
+
+<p align="center">
+  Designed with pixels and passion ✨
+</p>
