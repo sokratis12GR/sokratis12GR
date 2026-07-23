@@ -17,7 +17,7 @@ I am best known for **ArmorPlus**, a Minecraft mod that expands the game with cu
 ## Minecraft Mods
 
 ### ArmorPlus
-[![CurseForge](https://img.shields.io/badge/CurseForge-ArmorPlus-F16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/armorplus)
+![CurseForge Downloads](https://img.shields.io/curseforge/dt/237366?style=for-the-badge&label=ArmorPlus&color=orange&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Farmorplus)
 
 A Minecraft mod focused on custom armor sets, tools, abilities, and progression.
 
@@ -31,7 +31,7 @@ Features:
 
 ### Sword Displays
 
-[![CurseForge](https://img.shields.io/badge/CurseForge-Sword_Displays-F16436?style=for-the-badge&logo=curseforge)](https://www.curseforge.com/minecraft/mc-mods/sword-displays)
+![CurseForge Downloads](https://img.shields.io/curseforge/dt/392762?style=for-the-badge&label=Sword%20Displays&color=orange&link=https%3A%2F%2Fwww.curseforge.com%2Fminecraft%2Fmc-mods%2Fsword-displays)
 
 A Minecraft mod that adds decorative sword displays and presentation systems.
 
